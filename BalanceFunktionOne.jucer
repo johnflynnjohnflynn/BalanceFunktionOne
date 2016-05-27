@@ -14,11 +14,12 @@
               companyEmail="contact@balancemastering.com">
   <MAINGROUP id="w5W4YQ" name="BalanceFunktionOne">
     <GROUP id="{CFA9E090-AFE4-5696-FAB7-2A05264597D1}" name="Resources">
-      <FILE id="y1vp1s" name="flipside-ts-L.wav" compile="0" resource="1"
-            file="Resources/flipside-ts-L.wav"/>
-      <FILE id="mu6LVW" name="flipside-ts-R.wav" compile="0" resource="1"
-            file="Resources/flipside-ts-R.wav"/>
-      <FILE id="gaBxc9" name="flipside.jpg" compile="0" resource="1" file="Resources/flipside.jpg"/>
+      <FILE id="AXbJhx" name="funktion-one-irs.jpg" compile="0" resource="1"
+            file="Resources/funktion-one-irs.jpg"/>
+      <FILE id="Y1sDPx" name="funktion-one-ts-L.wav" compile="0" resource="1"
+            file="Resources/funktion-one-ts-L.wav"/>
+      <FILE id="NYJoIA" name="funktion-one-ts-R.wav" compile="0" resource="1"
+            file="Resources/funktion-one-ts-R.wav"/>
     </GROUP>
     <GROUP id="{CA0E8932-F55D-9FFB-D12A-FDFF1F614BEA}" name="Source">
       <GROUP id="{E5F42D8E-EBFB-0935-F8FA-9DF9A065DC81}" name="r8brain-free-src">

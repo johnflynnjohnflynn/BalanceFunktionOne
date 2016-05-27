@@ -19,8 +19,8 @@ BalanceFunktionOneAudioProcessor::BalanceFunktionOneAudioProcessor()
 
     // Put WAV impulses into Juce AudioFormatReaders
     WavAudioFormat wav;
-    MemoryInputStream* misL {new MemoryInputStream {BinaryData::flipsidetsL_wav, BinaryData::flipsidetsL_wavSize, false}};
-    MemoryInputStream* misR {new MemoryInputStream {BinaryData::flipsidetsR_wav, BinaryData::flipsidetsR_wavSize, false}};
+    MemoryInputStream* misL {new MemoryInputStream {BinaryData::funktiononetsL_wav, BinaryData::funktiononetsL_wavSize, false}};
+    MemoryInputStream* misR {new MemoryInputStream {BinaryData::funktiononetsR_wav, BinaryData::funktiononetsR_wavSize, false}};
     ScopedPointer<AudioFormatReader> audioReaderL {wav.createReaderFor (misL, true)};
     ScopedPointer<AudioFormatReader> audioReaderR {wav.createReaderFor (misR, true)};
 

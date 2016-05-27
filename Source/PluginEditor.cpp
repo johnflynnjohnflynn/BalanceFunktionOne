@@ -16,8 +16,8 @@
 //==============================================================================
 BalanceFunktionOneAudioProcessorEditor::BalanceFunktionOneAudioProcessorEditor (BalanceFunktionOneAudioProcessor& p)
     : AudioProcessorEditor (&p),
-      img {ImageCache::getFromMemory (BinaryData::flipside_jpg,
-                                      BinaryData::flipside_jpgSize)},
+      img {ImageCache::getFromMemory (BinaryData::funktiononeirs_jpg,
+                                      BinaryData::funktiononeirs_jpgSize)},
       processor (p)
 {
     // Make sure that before the constructor has finished, you've set the

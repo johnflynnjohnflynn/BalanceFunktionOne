@@ -1,0 +1,6 @@
+[submodule "Source/WDL"]
+	path = Source/WDL
+	url = http://www.taletn.com/WDL.git
+[submodule "Source/r8brain-free-src"]
+	path = Source/r8brain-free-src
+	url = https://github.com/avaneev/r8brain-free-src.git

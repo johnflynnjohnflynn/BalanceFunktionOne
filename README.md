@@ -2,7 +2,7 @@
 BalanceFunktionOne
 ---------------
 
-### Audio plugin performing true-stereo convolution of Balance Mastering Flipside Soundsystem impulse responses.
+### Audio plugin performing true-stereo convolution of Balance Mastering Funktion One impulse responses.
 
 ![BalanceFunktionOne image](http://www.johnflynn.info/images/BalanceFunktionOne.png)
 
